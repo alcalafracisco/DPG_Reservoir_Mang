@@ -2,7 +2,7 @@
 Proof of concept Manganese Prediction from a water reservoir using source water monitoring sensors
  Problem Definition:
 
-Using historic from 2012 to 2018 from a La Fe reservoir in Medellin, Colombia, to estimate manganese Alarm levels using Machine learning algorithms using analytical parameters from Source Water Monitors that measure pH, Temperature, Dissolve Oxygen, Conductivity, ORP,  Color, Turbidity, TOC and UV. 
+Using historical data from 2012 to 2018 from a La Fe reservoir in Medellin, Colombia, to estimate manganese Alarm levels, machine learning algorithms use analytical parameters from Source Water Monitors that measure pH, Temperature, Dissolved Oxygen, Conductivity, ORP, Color, Turbidity, TOC, and UV. 
 
 <img src="DATOS.JPG"  />
 Captation Tower data
