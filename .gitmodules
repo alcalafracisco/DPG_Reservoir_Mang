@@ -1,3 +1,3 @@
-[submodule "Manganese_PC"]
-	path = Manganese_PC
-	url = https://github.com/alcalafracisco/Manganese_PC.git
+[submodule "Reservoir_WS_EDA"]
+	path = Reservoir_WS_EDA
+	url = https://github.com/alcalafracisco/Reservoir_WS_EDA.git
