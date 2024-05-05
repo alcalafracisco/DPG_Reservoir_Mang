@@ -15,7 +15,7 @@ The data were sampled from three submersion levels at the pump station located a
 # Hypotesis:
 The hypothesis is to use analytical instrumentation from water source monitor (pH, Temp, OD, ORP, Conductivity, Color, and Turbidity) to estimate alarm level of Manganese greater than 0.1 mg/l and 0.05 mg/l
 
-<center><img src="TABLE.JPG" width=500 height=400 /></center>
+<center><img src="TABLE.JPG"  /></center>
 Data structure for training
 
 
