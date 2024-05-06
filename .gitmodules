@@ -1,0 +1,3 @@
+[submodule "path/where/you/want/submodule"]
+	path = path/where/you/want/submodule
+	url = https://github.com/alcalafracisco/DPG_Reservoir_Mang.git
